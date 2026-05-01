@@ -1,6 +1,6 @@
-# UTK Enrollment Trends Analysis (2024)
+# UTK Enrollment Trends Analysis 2020-2024
 
-Analyzing University of Tennessee Knoxville enrollment data from twenty twenty through twenty twenty-four.
+Analyzing University of Tennessee Knoxville enrollment data from 2020-2024.
 
 ## What This Project Does
 
@@ -33,13 +33,7 @@ Four graphs power the Power BI dashboard:
 3. **Graph 3** — Freshman academic profile (three line charts)
 4. **Graph 4** — Year-over-year growth percent (bar chart)
 
-## How to Use
 
-1. Load the SQL file into your database
-2. Create the three tables with sample data
-3. Create the two views
-4. Run the four graph queries
-5. Connect Power BI to visualize the results
 
 ## Skills Shown
 
